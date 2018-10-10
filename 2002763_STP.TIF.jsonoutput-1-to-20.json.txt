@@ -1,0 +1,107 @@
+-
+....
+........
+..............
+.......
+....
+.....
+...
+..............
+.
+......
+..
+.
+--
+---
+STRIDES SHASUN LIMITED
+FINISHED PRODUCT STANDARD TEST PROCEDURE
+Product Name : Macrogol Plus Electrolytes[6.86g) & (13.72g][Sachets][Powder for Oral Solution]
+: IH
+Reference
+STP No.
+: BP/Ph.Eur./IH
+: M2001781/FPSTP/R1
+:1 of 32
+Standard
+Code No.
+: 2001375, 2001781 & 2002763
+Effective Date : 1 SEP 2017
+Shelf life
+:48 Months : 2002763
+36 Months : 2001375 & 2001781
+Market/Customer : EU: 2002763
+UK / Chanelle : 2001375 & 2001781
+REASON FOR REVISION:
+Page No.
+Supersedes
+: M2001781/FPSTP/RO
+Effective Date
+22.09.2008
+14.11.2008
+14.11.2008
+09.07.2009
+R3
+25.03.2010
+R4
+Revision No.
+Changes incorporated
+RO For 13.720g: New procedure introduced.
+For 6.86g: New procedure introduced.
+R1 For 13.720g :Changes made as per change control number TSG/RC/532/08
+For 6.86g: No revision.
+Change in format, Combined STP created, Second identification included for
+Macrogol 3350, Sodium, Potassium, Hydrogen carbonate and Chloride, Dissolution
+test replaced by Reconstitution time test, changes made as per change control number
+TSG/RC/407/09.
+Change in format. Inclusion of Clarity and color of the reconstituted solution and pH
+of the reconstituted solution test. Change in the sample preparation for Reconstitution
+time test as per Change control number PC-TSG/156/10
+Inclusion of 2002763 code as per the change control number PC - TSG/595/10.
+R5 Change in format. Change in the title as per the change control number
+PC - TSG/196/11.
+R6 Change in format, inclusion of linearity standard preparation and check standard
+preparation, inclusion of AAS instrument parameters, change in procedure and change
+in conversion factor under Assay of Sodium and Potassium and uniformity of dosage
+units by content uniformity for sodium and potassium, changes done as per change
+control number PC-ODF/2013/089.
+R7 Change in sample preparation, in sodium & potassium assay test by AAS as per
+change control number PC-ODF/2014/207.
+R8
+Change in dilution of sample preparation, in potassium assay test by AAS as per
+change control number PC-ODF/2014/207.
+Change in format. Removal of equivalent column from chromatographic conditions
+given in Assay of macrogol 3350 by HPLC. Change in Customer name and extension
+of shelf life for 2002763. Changes done as per change control number PC-
+ODF/2015/638.
+06.10.2010
+14.05.2011
+18.06.2013
+28.03.2014
+28.03.2014
+R9
+21.01.2016
+Prepared by :
+AD-TDC
+Checked by :
+AD
+Approved by:
+DQA
+Checked by:
+AD-TDC
+Di leverer)
+Lieu
+Vajay Is
+2013 اون og
+osoaliz
+08lvq|2017
+Ranjitha, l.R
+08109117
+Signature & Date :
+Ranjitha.LR.
+Signature & Date :
+Signature & Date :
+Dili lamares
+Signature & Date:
+Vijay Thus
+P. AWAIDARI
+GQC/053/F-05/R3
